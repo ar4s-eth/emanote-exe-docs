@@ -43,3 +43,9 @@ nix run nixpkgs#nodePackages.live-server -- ./result
 ## GitHub Pages
 
 GitHub Actions CI is responsible for deploying to GitHub Pages. See `.github/workflows/publish.yaml`.
+
+## Todo
+- [ ] Include in home manager configuration (nixsys)
+- [ ] How to run markdown files as executables
+- [ ] Networking/routing via markdown?
+- [ ] 
